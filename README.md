@@ -1,3 +1,6 @@
+LINK:
+https://github.com/Daniyal12534/oracle-application-activity-report/raw/refs/heads/main/DANIYAL%20KALEEM_ERP_FINAL_REPORT.docx
+
 # Oracle Application Activity Report
 
 ## Overview
